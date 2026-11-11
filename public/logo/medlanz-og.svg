@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F4FAF7"/>
+  <circle cx="980" cy="120" r="180" fill="#E5F3FA"/>
+  <circle cx="160" cy="520" r="140" fill="#159B72" fill-opacity="0.12"/>
+  <rect x="120" y="210" width="120" height="120" rx="32" fill="#102C3C"/>
+  <rect x="168" y="230" width="24" height="80" rx="4" fill="#FFFFFF"/>
+  <rect x="140" y="258" width="80" height="24" rx="4" fill="#FFFFFF"/>
+  <circle cx="180" cy="270" r="8" fill="#159B72"/>
+  <text x="280" y="275" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#102C3C">MEDLANZ Pharmacy</text>
+  <text x="280" y="340" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#263238">Your Health, Our Priority.</text>
+  <text x="280" y="400" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#607D8B">Hor Al Anz, Deira, Dubai, UAE</text>
+</svg>
